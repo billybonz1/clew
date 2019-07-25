@@ -1,0 +1,27 @@
+$default: "FuturaPT", sans-serif;
+$FPd: "FuturaPT Demi", sans-serif;
+$FPeb: "FuturaPT Extra-bold", sans-serif;
+$FPh: "FuturaPT Heavy", sans-serif;
+$FPl: "FuturaPT Light", sans-serif;
+$FPm: "FuturaPT Medium", sans-serif;
+$TTm: "TTFirs Medium", sans-serif;
+$TTeb: "TTFirs Extra-bold", sans-serif;
+$TTel: "TTFirs Extra-light", sans-serif;
+$TTl: "TTFirs Light", sans-serif;
+$TTr: "TTFirs Regular", sans-serif;
+$TTb: "TTFirs Bold", sans-serif;
+$TTt: "TTFirs Thin", sans-serif;
+$error: #FFAF94;
+$basic: #555555;
+$title: #000000;
+$hover: #B4E8D3;
+$bggray: #f8f8f8;
+$theme: #8682B7;
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1140px);
+
+$gutter: $grid-gutter-width;

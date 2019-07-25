@@ -1,0 +1,16 @@
+@import "_mixins/font-face";
+
+@include font-face("FuturaPT", "../fonts/FuturaPT/FuturaPT-Bold", bold);
+//@include font-face("FuturaPT", "../fonts/FuturaPT/FuturaPTCond-Medium", 500);
+@include font-face("FuturaPT Demi", "../fonts/FuturaPT/FuturaPT-Demi");
+@include font-face("FuturaPT Extra-bold", "../fonts/FuturaPT/FuturaPT-ExtraBold");
+@include font-face("FuturaPT Heavy", "../fonts/FuturaPT/FuturaPT-Heavy");
+@include font-face("FuturaPT Light", "../fonts/FuturaPT/FuturaPT-Light");
+@include font-face("FuturaPT Medium", "../fonts/FuturaPT/FuturaPT-Medium");
+@include font-face("TTFirs Bold", "../fonts/TTFirs/TTFirs-Bold");
+@include font-face("TTFirs Extra-bold", "../fonts/TTFirs/TTFirs-ExtraBold");
+@include font-face("TTFirs Extra-light", "../fonts/TTFirs/TTFirs-ExtraLight");
+@include font-face("TTFirs Light", "../fonts/TTFirs/TTFirs-Light");
+@include font-face("TTFirs Medium", "../fonts/TTFirs/TTFirs-Medium");
+@include font-face("TTFirs Regular", "../fonts/TTFirs/TTFirs-Regular");
+@include font-face("TTFirs Thin", "../fonts/TTFirs/TTFirs-Thin");
